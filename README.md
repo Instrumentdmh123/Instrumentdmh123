@@ -1,91 +1,91 @@
-- 👋 Hi, I’m @Instrumentdmh123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Instrumentdmh123/Instrumentdmh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Instrument Dmh </title>
-    <link rel="stylesheet" href="styles.css">
+      <meta charset="UTF-8">
+       <title> Instrument Company</title>
+<link rel="icon" type="image/png" href="map.png">
+
+      <style>
+
+            h1 {
+ 		width:50%;
+		}
+            h2 {
+              background-color:aqua;
+		width:50%;	
+               }
+            ol{
+              background:papayawhip;
+		width:50%
+              } 
+           table,
+           th,
+           td{
+              border:1px solid  black;
+} 
+
+
+</style>
 </head>
 <body>
-    <!-- Navigation Bar -->
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#gallery">Gallery</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
 
-  
-    <header id="home">
-        <h1>Welcome to My Website</h1>
-        <p>Your source for information and inspiration.</p>
-    </header>
+<h1 style="border:3px solid Tomato;">Phoe Thajar Company Ltd.</h1><br>
+<h1 style="border:2px solid Tomato;">Engineering Services, </h1><br>
+<h1 style="border: 1px solid Tomato;">Naypyitaw </h1>
+<h3><marquee behavior="scroll"bgcolor="#009933"scrollamount="20">Join Us to make the brighter for your AWS</marquee></h3>
+<button>About Us</button>
+<button>Contact Address</button>
+<button>Office Branches</button>
 
-    <!-- About Section -->
-    <section id="about">
-        <h2>About Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
-    </section>
+<h2> Company Services</h2>
+<ol>
+<li>Meteorological & Hydrological Automatics Observation stations Installation services</li>
+<li>The Calibration and Maintenances Services</li>
+</ol>
+<h2>ပြင်ထိန်းလုပ်ငန်းများဆောင်ရွက်ခြင်း</h2>
 
-    <!-- Gallery Section -->
-    <section id="gallery">
-        <h2>Photo Gallery</h2>
-        <div class="photo-frame">
-            <!-- Add your photos here -->
-            <img src="photo1.jpg" alt="Photo 1">
-            <img src="photo2.jpg" alt="Photo 2">
-            <img src="photo3.jpg" alt="Photo 3">
-        </div>
-    </section>
+<table> 
+<caption>ပြင်ထိန်းဆောင်ရွက်ခဲ့သည့် စခန်းများ</caption>
+   <tr>
+       <th>  station name</th>
+       <th>  အမျိုးအစား</th>
+       <th>  ဆောင်ရွက်သည့်ခုနှစ်  </th>
+       <th>  တပ်ဆင်ထားရှိသည့်ဌာန </th>
+   </tr>
 
-    <!-- Data Display Section -->
-    <section id="data">
-        <h2>Data Display</h2>
-        <div class="data-table">
-            <!-- Add your data here -->
-            <table>
-                <thead>
-                    <tr>
-                        <th>Date</th>
-                        <th>Temperature (°C)</th>
-                        <th>Precipitation (mm)</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>2023-09-15</td>
-                        <td>25</td>
-                        <td>2.5</td>
-                    </tr>
-                    <!-- Add more data rows as needed -->
-                </tbody>
-            </table>
-        </div>
-    </section>
+<tr>
+       <td> Coco Island </td>
+       <td> Campbell Scientists </td>
+       <td>  2020 </td>
+       <td>  DMH </td>
+   </tr>
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <h2>Contact Us</h2>
-        <p>If you have any questions or feedback, please contact us at:</p>
-        <p>Email: example@example.com</p>
-        <p>Phone: +1 (123) 456-7890</p>
-    </section>
+<tr>
+       <td> Maung Taw </td>
+       <td> LSI </td>
+       <td>  2023 </td>
+       <td> DMH   </td>
+   </tr>
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2023 My Website</p>
-    </footer>
+<tr>
+       <td> Hmaw Bi</td>
+       <td> Agromet  </td>
+       <td> 2020  </td>
+       <td>  Agriculture </td>
+   </tr>
+
+
+   </table>
+<h2>the suppliment of Our Company</h2>
+<ul>
+<li>AWOS and Automatics Water Lelvel sensors</li>
+<li>The calibration Lab parts</li>
+</ul>
+<img src=" Coco_Island_aws.jpg" alt="Coco_Island_aws" title="Coco_Island_aws" class="Coco_Island_aws" width="300" height="200">
+<img src=" hmaw bi_Agromet_AWS.jpg" alt="hmaw bi_Agromet_AWS" title="hmaw bi_Agromet_AWS" class="hmaw bi_Agromet_AWS" width="300" height="200">
+<h1> Training Videos</h1>
+
+<video src="kt.mp4" width="400"controls></video>
+
 </body>
 </html>
